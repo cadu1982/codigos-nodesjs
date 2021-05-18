@@ -1,2 +1,2 @@
-# curso-nodes.js
+# curso-node.js
 codigos
